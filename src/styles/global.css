@@ -139,3 +139,19 @@ hr {
 	/* added line to stop words getting smushed together (as they go onto separate lines and some screen readers do not understand line feeds as a space */
 	white-space: nowrap;
 }
+/* === 字級調整（手機友善） === */
+body {
+  font-size: 18px;
+  line-height: 1.8;
+}
+h1 { font-size: 2.2em; }
+h2 { font-size: 1.7em; }
+h3 { font-size: 1.4em; }
+h4 { font-size: 1.2em; }
+
+@media (max-width: 720px) {
+  body { font-size: 17px; }
+  h1 { font-size: 1.8em; }
+  h2 { font-size: 1.45em; }
+  h3 { font-size: 1.25em; }
+}
