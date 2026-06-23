@@ -1,8 +1,9 @@
 ---
-title: '你不是沒有毅力，你只是用錯了方法——《原子習慣》'
-description: '習慣難以養成，不是因為你意志力不夠，而是系統設計出了問題。'
+title: 'atomic habits'
+description: 'atomic habits blog post'
 pubDate: 'Jun 24 2026'
 ---
+
 
 你有沒有試過「從明天開始」？
 
